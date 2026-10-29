@@ -1,0 +1,145 @@
+﻿data,kontrahentas,kategorija,padalinys,suma,PVM,mokejimo_terminas,apmoketa
+2025-11-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1040000.0,218400.0,2025-11-15,Taip
+2025-11-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,280000.0,58800.0,2026-01-24,Taip
+2025-11-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-1188000.0,-249480.0,2025-12-08,Taip
+2025-11-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2025-12-12,Taip
+2025-11-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,448000.0,94080.0,2025-12-20,Taip
+2025-11-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-371840.0,-78086.4,2025-12-09,Taip
+2025-11-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2025-11-10,Taip
+2025-11-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2025-11-11,Taip
+2025-11-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2025-12-12,Taip
+2025-11-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2025-11-20,Taip
+2025-11-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2025-11-25,Taip
+2025-11-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2025-11-28,Taip
+2025-12-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,845000.0,177450.0,2025-12-15,Taip
+2025-12-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,227500.0,47775.0,2026-02-23,Taip
+2025-12-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-965250.0,-202702.5,2026-01-07,Taip
+2025-12-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-01-11,Taip
+2025-12-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,364000.0,76440.0,2026-01-19,Taip
+2025-12-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-302120.0,-63445.2,2026-01-08,Taip
+2025-12-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2025-12-10,Taip
+2025-12-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2025-12-11,Taip
+2025-12-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-01-11,Taip
+2025-12-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2025-12-20,Taip
+2025-12-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2025-12-25,Taip
+2025-12-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2025-12-28,Taip
+2026-01-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,650000.0,136500.0,2026-01-15,Taip
+2026-01-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,175000.0,36750.0,2026-03-26,Taip
+2026-01-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-742500.0,-155925.0,2026-02-07,Taip
+2026-01-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-02-11,Taip
+2026-01-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,280000.0,58800.0,2026-02-19,Taip
+2026-01-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-232400.0,-48804.0,2026-02-08,Taip
+2026-01-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-01-10,Taip
+2026-01-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-01-11,Taip
+2026-01-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-02-11,Taip
+2026-01-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-01-20,Taip
+2026-01-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-01-25,Taip
+2026-01-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-01-28,Taip
+2026-02-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,715000.0,150150.0,2026-02-15,Taip
+2026-02-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,192500.0,40425.0,2026-04-26,Taip
+2026-02-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-816750.0,-171517.5,2026-03-10,Taip
+2026-02-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-03-14,Taip
+2026-02-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,308000.0,64680.0,2026-03-22,Taip
+2026-02-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-255640.0,-53684.4,2026-03-11,Taip
+2026-02-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-02-10,Taip
+2026-02-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-02-11,Taip
+2026-02-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-03-14,Taip
+2026-02-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-02-20,Taip
+2026-02-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-02-25,Taip
+2026-02-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-02-28,Taip
+2026-03-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,975000.0,204750.0,2026-03-15,Taip
+2026-03-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,262500.0,55125.0,2026-05-24,Taip
+2026-03-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-1113750.0,-233887.5,2026-04-07,Taip
+2026-03-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-04-11,Taip
+2026-03-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,420000.0,88200.0,2026-04-19,Taip
+2026-03-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-348600.0,-73206.0,2026-04-08,Taip
+2026-03-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-03-10,Taip
+2026-03-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-03-11,Taip
+2026-03-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-04-11,Taip
+2026-03-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-03-20,Taip
+2026-03-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-03-25,Taip
+2026-03-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-03-28,Taip
+2026-04-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1300000.0,273000.0,2026-04-15,Taip
+2026-04-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,350000.0,73500.0,2026-06-24,Taip
+2026-04-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-1485000.0,-311850.0,2026-05-08,Taip
+2026-04-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-05-12,Taip
+2026-04-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,560000.0,117600.0,2026-05-20,Taip
+2026-04-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-464800.0,-97608.0,2026-05-09,Taip
+2026-04-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-04-10,Taip
+2026-04-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-04-11,Taip
+2026-04-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-05-12,Taip
+2026-04-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-04-20,Taip
+2026-04-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-04-25,Taip
+2026-04-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-04-28,Taip
+2026-05-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1430000.0,300300.0,2026-05-15,Taip
+2026-05-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,385000.0,80850.0,2026-07-24,Taip
+2026-05-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-1923900.0,-404019.0,2026-06-07,Taip
+2026-05-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-06-11,Taip
+2026-05-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,616000.0,129360.0,2026-06-19,Taip
+2026-05-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-585200.0,-122892.0,2026-06-08,Taip
+2026-05-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-05-10,Taip
+2026-05-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-05-11,Taip
+2026-05-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-06-11,Taip
+2026-05-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-05-20,Taip
+2026-05-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-05-25,Taip
+2026-05-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-05-28,Taip
+2026-06-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1560000.0,327600.0,2026-06-15,Taip
+2026-06-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,420000.0,88200.0,2026-08-24,Taip
+2026-06-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-2098800.0,-440748.0,2026-07-08,Taip
+2026-06-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-07-12,Taip
+2026-06-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,672000.0,141120.0,2026-07-20,Taip
+2026-06-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-638400.0,-134064.0,2026-07-09,Taip
+2026-06-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-06-10,Taip
+2026-06-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-06-11,Taip
+2026-06-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-07-12,Taip
+2026-06-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-06-20,Taip
+2026-06-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-06-25,Taip
+2026-06-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-06-28,Taip
+2026-07-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1625000.0,341250.0,2026-07-15,Taip
+2026-07-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,437500.0,91875.0,2026-09-23,Ne
+2026-07-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-2186250.0,-459112.5,2026-08-07,Taip
+2026-07-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-08-11,Taip
+2026-07-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,700000.0,147000.0,2026-08-19,Taip
+2026-07-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-665000.0,-139650.0,2026-08-08,Taip
+2026-07-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-07-10,Taip
+2026-07-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-07-11,Taip
+2026-07-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-08-11,Taip
+2026-07-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-07-20,Taip
+2026-07-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-07-25,Taip
+2026-07-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-07-28,Taip
+2026-08-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1560000.0,327600.0,2026-08-15,Taip
+2026-08-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,420000.0,88200.0,2026-10-24,Ne
+2026-08-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-2098800.0,-440748.0,2026-09-07,Taip
+2026-08-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-09-11,Taip
+2026-08-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,672000.0,141120.0,2026-09-19,Taip
+2026-08-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-638400.0,-134064.0,2026-09-08,Taip
+2026-08-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-08-10,Taip
+2026-08-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-08-11,Taip
+2026-08-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-09-11,Taip
+2026-08-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-08-20,Taip
+2026-08-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-08-25,Taip
+2026-08-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-08-28,Taip
+2026-09-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1430000.0,300300.0,2026-09-15,Taip
+2026-09-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,385000.0,80850.0,2026-11-24,Ne
+2026-09-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-1923900.0,-404019.0,2026-10-08,Taip
+2026-09-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-10-12,Taip
+2026-09-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,616000.0,129360.0,2026-10-20,Taip
+2026-09-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-585200.0,-122892.0,2026-10-09,Taip
+2026-09-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-09-10,Taip
+2026-09-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-09-11,Taip
+2026-09-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-10-12,Taip
+2026-09-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-09-20,Taip
+2026-09-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-09-25,Taip
+2026-09-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-09-28,Taip
+2026-10-15,Butų pirkėjai,Butų pardavimai,Šiaurės plėtra UAB,1170000.0,245700.0,2026-10-15,Taip
+2026-10-25,Instituciniai investuotojai (pavyzdys),Pardavimai,Šiaurės plėtra UAB,315000.0,66150.0,2026-12-24,Ne
+2026-10-08,Statybos rangovas (pavyzdys),Statybos ir medžiagos,Šiaurės plėtra UAB,-1574100.0,-330561.0,2026-11-07,Ne
+2026-10-12,Pardavimai ir marketingas,Marketingas,Šiaurės plėtra UAB,-38000,-7980.0,2026-11-11,Ne
+2026-10-05,Užsakovai,Statybos darbai,Šiaurės statyba UAB,504000.0,105840.0,2026-11-19,Ne
+2026-10-09,Medžiagų tiekėjas (pavyzdys),Statybos ir medžiagos,Šiaurės statyba UAB,-478800.0,-100548.0,2026-11-08,Ne
+2026-10-10,Darbuotojai (48 žm.),Darbo užmokestis,Šiaurės statyba UAB,-122124.0,-0.0,2026-10-10,Taip
+2026-10-01,Nuomininkai,Nuomos pajamos,Šiaurės nuoma UAB,330000,69300.0,2026-10-11,Taip
+2026-10-12,Pastatų priežiūra,Priežiūra,Šiaurės nuoma UAB,-70000,-14700.0,2026-11-11,Ne
+2026-10-20,Bankas,Palūkanos,Šiaurės nuoma UAB,-260000,0,2026-10-20,Taip
+2026-10-25,Bankas (paskola),Paskolos įmokos,Šiaurės nuoma UAB,-120000,0,2026-10-25,Taip
+2026-10-28,Grupės valdymas (4 darb.),Administracinės sąnaudos,Šiaurės grupė UAB (valdymas),-70000,-14700.0,2026-10-28,Taip

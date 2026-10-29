@@ -1,0 +1,26 @@
+[
+ {
+  "id": "gamyba",
+  "name": "UAB „Nerio mišiniai“ (išgalvota) · statybinių mišinių gamintojas, ~4,8 M€, 24 darb.",
+  "opening": 700000,
+  "story": "Žaliavų (cemento, polimerų) brangimas nuo 2026-04 numušė maržą ~7 p.p. ir metai baigiasi nedideliu nuostoliu; didžiausias klientas vėluoja apmokėti 2 sąskaitas; žiemą sezoninis pajamų kritimas."
+ },
+ {
+  "id": "zemes_ukis",
+  "name": "ŽŪB „Lygumų ūkis“ (išgalvota) · žemės ūkio bendrovė, ~8,6 M€, 69 darb.",
+  "opening": 1250000,
+  "story": "Labai sezoninis verslas: pavasarį perkamos brangesnės trąšos ir sėklos, o grūdų pajamos ateina rugsėjį–lapkritį – vasarą susidaro pinigų tarpas; grūdų eksportuotojas vėluoja apmokėti."
+ },
+ {
+  "id": "technologijos",
+  "name": "UAB „Robotikos sprendimai“ (išgalvota) · logistikos robotai ir SaaS, ~1,9 M€, 14 darb.",
+  "opening": 650000,
+  "story": "Sparti augimo trajektorija (pajamos per metus ~2,3 karto), bet nauji darbuotojai ir komponentai suvalgo pinigus – veikla apie lūžio tašką; didžiausias klientas vėluoja ~125 k€."
+ },
+ {
+  "id": "grupe",
+  "name": "„Šiaurės grupė“ (išgalvota) · NT grupė su 3 dukterinėmis, ~28 M€ konsoliduotai",
+  "opening": 5600000,
+  "story": "Statybos kainų augimas nuo 2026-05 numušė plėtros maržą, palūkanų našta ~3,1 M€ – grupė metus baigia ~2 M€ nuostoliu; investuotojas vėluoja apmokėti ~0,7 M€."
+ }
+]
