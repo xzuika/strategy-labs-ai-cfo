@@ -1,0 +1,28 @@
+name: Keep Streamlit awake
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+jobs:
+  wake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm i playwright@1 && npx playwright install --with-deps chromium
+      - run: |
+          cat > wake.js <<'JS'
+          const { chromium } = require('playwright');
+          (async () => {
+            const b = await chromium.launch();
+            const p = await b.newPage();
+            await p.goto('https://strategy-labs-ai-cfo.streamlit.app/', { timeout: 120000 });
+            await p.waitForTimeout(15000);
+            const btn = p.getByText('Yes, get this app back up');
+            if (await btn.count()) { await btn.first().click(); console.log('Woke app'); await p.waitForTimeout(60000); }
+            else console.log('App was awake');
+            await b.close();
+          })();
+          JS
+          node wake.js
